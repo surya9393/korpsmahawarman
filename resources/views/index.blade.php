@@ -1,4 +1,4 @@
-@extends('layouts.header')
+@extends('layouts.home')
 @section('content')
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #6f42c1;">
     <div class="container-fluid">
